@@ -1,5 +1,6 @@
 # React Native & React JS
 
-- Repositório dedicado a aprender os básico de React Native como uma breve introdução ao Front-End. 
-- Para as atividades em React Native, tenho usado Expo Snacks e Visual Studio Code.
-- A utilização de LLMs no código será apenas por conveniência. (Sem Vibe Coding por aqui)
+- Repository dedicated to learning React Native & React JS as a brief introduction to Front-End.
+- I'll be using Expo Snacks and Visual Studio Code.
+- The use of LLMs will be for convenience only. (No Vibe Coding allowed)
+
